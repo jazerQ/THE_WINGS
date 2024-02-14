@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707941515 source:/home/jazer/Desktop/Wings/onTheWings/main.cpp
+	<iostream>
+	"header.h"
+
+1707941608 /home/jazer/Desktop/Wings/onTheWings/header.h
+
